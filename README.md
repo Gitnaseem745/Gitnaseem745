@@ -1,5 +1,4 @@
 # 💫 About Me:
-![banner](https://github.com/Gitnaseem745/Gitnaseem745/blob/main/Github.png)
 
 I am enhancing my knowledge of Data Structures and Algorithms (DSA) in Java and building WordPress sites for clients.<br><br>I possess intermediate-level expertise in React development and am proficient in web design, utilizing tools such as Figma. As a WordPress developer, I have built multiple websites, including my own two blogs.<br><br>I have experience with GSAP and some familiarity with 3D development.<br><br>Skills:<br><br>    Frontend Development<br>    JavaScript<br>    TypeScript<br>    React<br>    Java<br>   Tailwind CSS<br>    GSAP<br>    WordPress<br>    Figma<br>    Data Structures and Algorithms (Java)
 

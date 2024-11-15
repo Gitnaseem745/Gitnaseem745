@@ -1,6 +1,14 @@
 # 💫 About Me:
+I am currently advancing my expertise in Data Structures and Algorithms (DSA) using Java and actively building custom WordPress websites for clients, I am also developing a dynamic e-commerce project in Next.js.
 
-I am enhancing my knowledge of Data Structures and Algorithms (DSA) in Java and building WordPress sites for clients.<br><br>I possess intermediate-level expertise in React development and am proficient in web design, utilizing tools such as Figma. As a WordPress developer, I have built multiple websites, including my own two blogs.<br><br>I have experience with GSAP and some familiarity with 3D development.<br><br>Skills:<br><br>    Frontend Development<br>    JavaScript<br>    TypeScript<br>    React<br>    Java<br>   Tailwind CSS<br>    GSAP<br>    WordPress<br>    Figma<br>    Data Structures and Algorithms (Java)
+With a solid background in React development and web design, I utilize tools like Figma to bring concepts to life. As a WordPress developer, I've built several websites, including a personal blog. My projects often integrate animations with GSAP & Framer Motion.
+
+Skills
+
+**Frontend Development:** JavaScript, TypeScript, React, Tailwind CSS, GSAP <br>
+**Web Design:** Figma, responsive design principles <br>
+**Programming:** Java (DSA), efficient algorithmic solutions
+
 
 
 ## 🌐 Socials:

@@ -5,7 +5,7 @@ With a solid background in React development and web design, I utilize tools lik
 
 Skills
 
-**Frontend Development:** JavaScript, TypeScript, React, Tailwind CSS, GSAP <br>
+**Frontend Development:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, GSAP, Framer Motion <br>
 **Web Design:** Figma, responsive design principles <br>
 **Programming:** Java (DSA), efficient algorithmic solutions
 

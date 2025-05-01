@@ -1,7 +1,5 @@
 # 💫 About Me:
-I am currently advancing my expertise in Data Structures and Algorithms (DSA) using Java and actively building custom WordPress websites for clients, I am also developing a dynamic e-commerce project in Next.js.
-
-With a solid background in React development and web design, I utilize tools like Figma to bring concepts to life. As a WordPress developer, I've built several websites, including a personal blog. My projects often integrate animations with GSAP & Framer Motion.
+Nextjs Developer
 
 Skills
 

@@ -3,7 +3,7 @@ Nextjs Developer
 
 Skills
 
-**Frontend Development:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, GSAP, Framer Motion <br>
+**Frontend Development:** JavaScript, TypeScript, React.js, Next.js, Tailwind, Framer Motion, Firebase <br>
 **Web Design:** Figma, responsive design principles <br>
 **Programming:** Java (DSA), efficient algorithmic solutions
 
